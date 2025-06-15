@@ -1,5 +1,4 @@
-make
-
+make</br>
 ./server
 
 it will display pid
